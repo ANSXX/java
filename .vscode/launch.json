@@ -1,0 +1,94 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "BinaryToDecimal",
+      "request": "launch",
+      "mainClass": "BinaryToDecimal",
+      "projectName": "java_4681b91f"
+    },
+    {
+      "type": "java",
+      "name": "primeRange",
+      "request": "launch",
+      "mainClass": "primeRange",
+      "projectName": "java_4681b91f"
+    },
+    {
+      "type": "java",
+      "name": "primeFunction",
+      "request": "launch",
+      "mainClass": "primeFunction",
+      "projectName": "java_4681b91f"
+    },
+    {
+      "type": "java",
+      "name": "factorial",
+      "request": "launch",
+      "mainClass": "factorial",
+      "projectName": "java_4681b91f"
+    },
+    {
+      "type": "java",
+      "name": "pattern",
+      "request": "launch",
+      "mainClass": "pattern",
+      "projectName": "java_6987356b"
+    },
+    {
+      "type": "java",
+      "name": "primenumber",
+      "request": "launch",
+      "mainClass": "primenumber",
+      "projectName": "java_6987356b"
+    },
+    {
+      "type": "java",
+      "name": "tenMultiple",
+      "request": "launch",
+      "mainClass": "tenMultiple",
+      "projectName": "java_6987356b"
+    },
+    {
+      "type": "java",
+      "name": "star",
+      "request": "launch",
+      "mainClass": "star",
+      "projectName": "java_6987356b"
+    },
+    {
+      "type": "java",
+      "name": "calculator",
+      "request": "launch",
+      "mainClass": "calculator",
+      "projectName": "java_6987356b"
+    },
+    {
+      "type": "java",
+      "name": "news",
+      "request": "launch",
+      "mainClass": "news",
+      "projectName": "java_6987356b"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "h:/java",
+      "program": "h:/java/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
