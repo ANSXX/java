@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "daysOfMonth",
+      "request": "launch",
+      "mainClass": "daysOfMonth",
+      "projectName": "java_4681b91f"
+    },
+    {
+      "type": "java",
       "name": "BinaryToDecimal",
       "request": "launch",
       "mainClass": "BinaryToDecimal",

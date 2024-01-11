@@ -1,14 +1,10 @@
-
-//Wap to print addition of two user given matrix
-
-
 import java.util.*;
 public class arrayAddition
 {
     public static void main(String args[])
     {
         Scanner num = new Scanner(System.in);
-        int r3=0,r1=0,r2=0,c1=0,c2=0;
+        int r1=0,r2=0,c1=0,c2=0;
         {
             System.out.println("enter the row and colum for array 1");
             r1 = num.nextInt();
@@ -62,6 +58,7 @@ public class arrayAddition
             else{
                 System.out.println("Not possible!!");
             }
+            num.close();
         }
     }
 }
