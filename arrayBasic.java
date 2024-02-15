@@ -13,7 +13,7 @@ public class arrayBasic
     }
     public static void main(String args[])
     {
-        Scanner scn = new Scanner(System.in);
+        /*Scanner scn = new Scanner(System.in);
 
         System.out.println("enter the array length: ");
         int length = scn.nextInt();
@@ -36,6 +36,14 @@ public class arrayBasic
         
         printArray(arr,length);
         scn.close();
-        System.out.println("your array length is: "+ testArray.length);
+        System.out.println("your array length is: "+ testArray.length); */
+
+        int a[]={2,4,6,8,10};
+        for(int x:a)
+        {
+            System.out.println(x);
+        }
+
+
     } 
 }

@@ -1,7 +1,7 @@
 import java.util.*;
 public class arrayAddition
 {
-    public static void main(String args[])
+    public static void main(String []args)
     {
         Scanner num = new Scanner(System.in);
         int r1=0,r2=0,c1=0,c2=0;

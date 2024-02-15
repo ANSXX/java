@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "daysOfMonth",
+      "request": "launch",
+      "mainClass": "daysOfMonth",
+      "projectName": "java_4681b91f"
+    },
+    {
+      "type": "java",
+      "name": "BinaryToDecimal",
+      "request": "launch",
+      "mainClass": "BinaryToDecimal",
+      "projectName": "java_4681b91f"
+    },
+    {
+      "type": "java",
+      "name": "primeRange",
+      "request": "launch",
+      "mainClass": "primeRange",
+      "projectName": "java_4681b91f"
+    },
+    {
+      "type": "java",
+      "name": "primeFunction",
+      "request": "launch",
+      "mainClass": "primeFunction",
+      "projectName": "java_4681b91f"
+    },
+    {
+      "type": "java",
+      "name": "factorial",
+      "request": "launch",
+      "mainClass": "factorial",
+      "projectName": "java_4681b91f"
+    },
+    {
+      "type": "java",
       "name": "pattern",
       "request": "launch",
       "mainClass": "pattern",
