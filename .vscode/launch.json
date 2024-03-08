@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "multiplication_table",
+      "request": "launch",
+      "mainClass": "multiplication_table",
+      "projectName": "java_4681b91f"
+    },
+    {
+      "type": "java",
       "name": "daysOfMonth",
       "request": "launch",
       "mainClass": "daysOfMonth",
