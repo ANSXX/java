@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "java_4681b91f"
+    },
+    {
+      "type": "java",
+      "name": "MaxSum",
+      "request": "launch",
+      "mainClass": "MaxSum",
+      "projectName": "java_4681b91f"
+    },
+    {
+      "type": "java",
       "name": "multiplication_table",
       "request": "launch",
       "mainClass": "multiplication_table",

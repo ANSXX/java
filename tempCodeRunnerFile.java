@@ -1,1 +1,35 @@
-length
+import java.io.*;
+import java.util.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        for(int i=0;i<n;i++){
+                long x = scan.nextLong();
+                try{
+                    System.out.println(x+"can be fitted in:");
+                    if(x >= Byte.MIN_VALUE && x<= Byte.MAX_VALUE)
+                    {
+                        System.out.println("*Byte");
+                    }
+                    if(x >= Long.MIN_VALUE && x<= Long.MAX_VALUE)
+                    {
+                        System.out.println("*Long");
+                    }
+                    if(x >= Integer.MIN_VALUE && x<= Integer.MAX_VALUE)
+                    {
+                        System.out.println("*Int");
+                    }
+                    if(x >= Short.MIN_VALUE && x<= Short.MAX_VALUE)
+                    {
+                        System.out.println("*Short");
+                    }
+                }
+                catch(Exception e){
+                    System.out.println(x+" can't be fitted anywhere.");
+                }
+        }
+    }
+}
