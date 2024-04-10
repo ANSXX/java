@@ -38,12 +38,17 @@ public class arrayBasic
         scn.close();
         System.out.println("your array length is: "+ testArray.length); */
 
-        int a[]={2,4,6,8,10};
-        for(int x:a)
+        String a[]={"My","Name","is"," "};
+        for(String x:a)
         {
-            System.out.println(x);
+            System.out.print(x+" ");
         }
-
+        a[a.length-1]="Himanshu";
+        System.out.println(" ");
+        for(String x:a)
+        {
+            System.out.print(x+" ");
+        }
 
     } 
 }

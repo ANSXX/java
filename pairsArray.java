@@ -1,3 +1,4 @@
+
 public class pairsArray {
     public static void printPair(int n[]){
         int k = 0;
