@@ -1,5 +1,5 @@
-package tools;
-class pack{
+class Duck
+{
     public static int printArray(int a[]){
         for(int x:a){
             System.out.print(x+" ");
