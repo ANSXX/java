@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "Demo",
+      "projectName": "java_4681b91f"
+    },
+    {
+      "type": "java",
       "name": "arrayH",
       "request": "launch",
       "mainClass": "arrayH",

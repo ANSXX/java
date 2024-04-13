@@ -1,4 +1,4 @@
-package tools;
+
 import java.lang.*;
 class abc{
     public static void main(String [] args){ 
