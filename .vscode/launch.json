@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Solutions",
+      "request": "launch",
+      "mainClass": "Solutions",
+      "projectName": "java_4681b91f"
+    },
+    {
+      "type": "java",
+      "name": "MinNbDiv",
+      "request": "launch",
+      "mainClass": "MinNbDiv",
+      "projectName": "java_4681b91f"
+    },
+    {
+      "type": "java",
+      "name": "arrayAddition",
+      "request": "launch",
+      "mainClass": "arrayAddition",
+      "projectName": "java_4681b91f"
+    },
+    {
+      "type": "java",
       "name": "jaggedArray",
       "request": "launch",
       "mainClass": "jaggedArray",
